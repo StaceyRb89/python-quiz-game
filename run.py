@@ -49,3 +49,4 @@ else:
     print("Incorrect!")
 
 print ("you got " + str(score) + "questions correct!")
+print ("you got " + str((score / 4) * 100) + "%")
